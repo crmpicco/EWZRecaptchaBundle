@@ -47,7 +47,7 @@ class IsTrueValidator extends ConstraintValidator
     /**
      * The reCAPTCHA server URL's.
      */
-    const RECAPTCHA_VERIFY_SERVER = 'https://www.google.com';
+    const RECAPTCHA_VERIFY_SERVER = 'https://www.recaptcha.net';
 
     /**
      * @param bool         $enabled

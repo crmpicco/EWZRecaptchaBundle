@@ -17,8 +17,8 @@ class EWZRecaptchaType extends AbstractType
     /**
      * The reCAPTCHA server URL's.
      */
-    const RECAPTCHA_API_SERVER = 'https://www.google.com/recaptcha/api.js';
-    const RECAPTCHA_API_JS_SERVER = '//www.google.com/recaptcha/api/js/recaptcha_ajax.js';
+    const RECAPTCHA_API_SERVER = 'https://www.recaptcha.net/recaptcha/api.js';
+    const RECAPTCHA_API_JS_SERVER = '//www.recaptcha.net/recaptcha/api/js/recaptcha_ajax.js';
 
     /**
      * The public key.
